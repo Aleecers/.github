@@ -10,6 +10,8 @@
 
 محفظة اليسيرس: قريبآ.
 
+ايميل اليسيرس: Aleecers@proton.me
+
 قناة اليسيرس: https://t.me/Aleecers
 
 مجتمع اليسيرس: https://t.me/AleecersWallet
