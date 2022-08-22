@@ -4,16 +4,19 @@
 
 <br><br>
 
-محفظة اليسيرس ( Aleecers ) هي محفظة لشبكة Solana مكتوبة بلغة Rust تهدف الى تسهيل التعاملات على منصة Telegram منها ارسال عملة SOL الى الاصدقاء والاستقبال منهم، وايضآ انشاء الفواتير للعملاء وغير ذالك الكثير.
+Aleecers Wallet is a Solana wallet written in Rust that aims to facilitate transactions on the Telegram platform, including sending SOL currency to friends and receiving from them, as well as creating invoices for customers and much more.
 
-مدونة اليسيرس: قريبآ.
-
-محفظة اليسيرس: قريبآ.
-
-ايميل اليسيرس: Aleecers@proton.me
-
-قناة اليسيرس: https://t.me/Aleecers
-
-مجتمع اليسيرس: https://t.me/AleecersWallet
+We opensource community we welcome all contributors with this [code of conduct], our goal is not financial, our goal is to improve the experience of transactions on Telegram.
 
 </div>
+
+> Aleecers Blog (Arabic): Coming soon. :memo: <br>
+Aleecers Wallet: [@AleecersBot] (Unavailable for all now). :credit_card: <br>
+Aleecers email: Aleecers@proton.me :envelope: <br>
+Aleecers Channel: [@Aleecers] :loudspeaker: <br>
+Aleecers Community: [@AleecersWallet] :speech_balloon: <br>
+
+[@Aleecers]: https://t.me/Aleecers
+[@AleecersWallet]: https://t.me/AleecersWallet
+[@AleecersBot]: https://t.me/AleecersBot
+[code of conduct]: https://www.rust-lang.org/policies/code-of-conduct
