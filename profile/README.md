@@ -10,11 +10,11 @@ We opensource community we welcome all contributors with this [code of conduct],
 
 </div>
 
-> Aleecers Blog (Arabic): Coming soon. :memo: <br>
-Aleecers Wallet: [@AleecersBot] (Unavailable for all now). :credit_card: <br>
-Aleecers email: Aleecers@proton.me :envelope: <br>
-Aleecers Channel: [@Aleecers] :loudspeaker: <br>
-Aleecers Community: [@AleecersWallet] :speech_balloon: <br>
+> Blog (Arabic): Coming soon. :memo: <br>
+Wallet: [@AleecersBot] (Unavailable for all now). :credit_card: <br>
+Email: Aleecers@proton.me :envelope: <br>
+Channel: [@Aleecers] :loudspeaker: <br>
+Community: [@AleecersWallet] :speech_balloon: <br>
 
 [@Aleecers]: https://t.me/Aleecers
 [@AleecersWallet]: https://t.me/AleecersWallet
